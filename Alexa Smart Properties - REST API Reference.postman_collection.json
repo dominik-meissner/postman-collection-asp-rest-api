@@ -1618,7 +1618,7 @@
 					"response": []
 				},
 				{
-					"name": "Remove Device from Account Copy",
+					"name": "Remove Device from Account",
 					"request": {
 						"method": "POST",
 						"header": [],
